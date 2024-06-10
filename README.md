@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rose-Boveto
+- 👋 Hi, I’m Rose Boveto
 - 👀 I’m interested in learning Web Front End
 - 🌱 I’m currently learning Programing em Cloud AWS Project Proz Talent
 - ⚡ Fun fact: I'm accountant for 13 years, but currently migrating from area
