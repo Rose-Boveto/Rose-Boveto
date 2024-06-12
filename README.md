@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <img width="330em" src="https://github-readme-stats.vercel.app/api?username=rose-boveto&show_icons=true&theme=transparent" alt="caroline's stats"/> <br>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-boveto&layout=compact&theme=vision-friendly-dark" alt="caroline's most languages"/>
+ <br> <br> 
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-boveto&layout=compact&theme=shadow_blue" alt="caroline's most languages"/>
 </p>
 
 <br><br>
